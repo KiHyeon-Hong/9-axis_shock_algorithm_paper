@@ -1,5 +1,9 @@
 ## 9축 센서 데이터 기반의 지능형 충격감지 알고리즘
 
+- https://kihyeon-hong.github.io/9-axis_shock_algorithm_paper/analysis/Shock_data_analysis1.html
+- https://kihyeon-hong.github.io/9-axis_shock_algorithm_paper/analysis/Shock_data_analysis2.html
+
+
 # Data strcuture
 
 ## Input_Data
