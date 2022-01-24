@@ -11,6 +11,44 @@
 
 - https://github.com/KiHyeon-Hong/MPU9250_data_in_a_stationary_state_csv
 
+## 파일 구조
+
+### analysis directory
+
+- Shock_data_analysis_final.ipynb
+  - 9축 데이터 분석 자료
+- Shock_data_analysis_fina2.ipynb
+  - 충돌감지 정확도 분석 자료
+
+### datas directory
+
+- 실험을 위한 MPU9250 센서 데이터 측정 파일
+
+### files directory
+
+- data.txt
+  - save9axisData.js로 기록한 100회 충돌에 대한 9축 데이터 파일
+- log.csv
+  - 알고리즘 호출주기와 데이터 측정주기에 따른 충돌감지 결과
+- config.json
+  - 충돌감지 알고리즘 설정 파일
+
+### Shock_level.js
+
+- 9축센서 기반의 시설물 충돌감지 알고리즘 모듈
+
+### save9axisData.js
+
+- MPU9250 센서에서 측정되는 충돌데이터 저장 모듈
+
+### load9axisData.js
+
+- 저장된 충돌데이터 로드 모듈
+
+### paperTestCode.js
+
+- 충돌감지 알고리즘 호출 주기 및 데이터 측정 주기 변경하며 충돌감지 정확도 측정 실험 코드
+
 ## Data strcuture
 
 ## Input_Data
