@@ -1,11 +1,17 @@
-#
+# 9-axis_shock_algorithm_paper
 
-## 9축 센서 데이터 기반의 지능형 충격감지 알고리즘
+## 충돌감지 알고리즘 실험 자료
+
+### 충돌감지 알고리즘 실험 시각화 분석 자료
 
 - https://kihyeon-hong.github.io/9-axis_shock_algorithm_paper/analysis/Shock_data_analysis_final1.html
 - https://kihyeon-hong.github.io/9-axis_shock_algorithm_paper/analysis/Shock_data_analysis_final2.html
 
-# Data strcuture
+### 정지된 상태에서 MPU9250 센서의 오차 측정 실험 분석 자료
+
+- https://github.com/KiHyeon-Hong/MPU9250_data_in_a_stationary_state_csv
+
+## Data strcuture
 
 ## Input_Data
 
