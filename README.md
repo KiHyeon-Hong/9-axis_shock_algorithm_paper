@@ -116,3 +116,7 @@
 - 시설물이 기울어지는 것이 멈출 경우 자이로 센서의 값은 변화가 없으며, 3축에서 측정되는 중력 가속도 값이 달라진다.
 
 ![Feature 6](https://kihyeon-hong.github.io/Collection_of_repository_images/ShockLevel_test_code/feature6.jpg)
+
+## 9축센서 기반의 시설물 충돌감지 알고리즘 모듈
+
+- https://github.com/KiHyeon-Hong/9-axis_shock_algorithm_code
